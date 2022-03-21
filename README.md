@@ -1,7 +1,9 @@
 A Shell written in C for CS537 Introduction to Operating at UW Madison
 
-Compile with make command
-
+Compile with 
+```
+make
+```
 run shell with 
 ```
 ./mysh
