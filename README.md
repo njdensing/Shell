@@ -4,9 +4,11 @@ Compile with make command
 
 run shell with ./mysh
 
-run a list of commands with ./mysh [filename]
-
-close scipt with
+run a list of commands with 
+```
+./mysh [filename]
+```
+close shell with
 ```
 exit
 ```
@@ -22,4 +24,7 @@ remove alias with
 ```
 unalias [name of alias]
 ```
-
+redirect output of command with
+```
+[command] > [filename]
+```
