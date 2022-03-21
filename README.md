@@ -5,3 +5,8 @@ Compile with make command
 run shell with ./mysh
 
 run a list of commands with ./mysh [filename]
+
+create alias with
+```
+aaaa
+```
