@@ -6,7 +6,20 @@ run shell with ./mysh
 
 run a list of commands with ./mysh [filename]
 
+close scipt with
+```
+exit
+```
 create alias with
 ```
-aaaa
+alias [name of alias] [command]
 ```
+run alias with
+```
+[name of alias]
+```
+remove alias with
+```
+unalias [name of alias]
+```
+
